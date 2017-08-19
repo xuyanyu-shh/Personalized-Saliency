@@ -27,4 +27,4 @@ In this paper, we first show that such heterogeneity is common and critical for 
 ```
 
 ## Personalized Saliency Dataset
-Download our *Personalized Saliency* dataset [[Google Drive]](https://www.ijcai.org/proceedings/2017/0543.pdf), [[Baidu Pan]](http://pan.baidu.com/s/1bpcYwUV)
+Download our *Personalized Saliency* dataset [[Google Drive]](https://drive.google.com/open?id=0B29_sOsoKIkVa3VfRWN3MEc2MUU), [[Baidu Pan]](http://pan.baidu.com/s/1bpcYwUV)
